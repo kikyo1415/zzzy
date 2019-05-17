@@ -1,0 +1,11 @@
+ul.stats-overview li {
+    width: 19%;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+ul.stats-overview li .value {
+    word-break: break-all;
+}

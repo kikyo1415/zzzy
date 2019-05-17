@@ -1,0 +1,12 @@
+.pagecontroldiv{
+    margin: 0;
+}
+.pagecontroldiv a{
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+.pagecontroldiv strong{
+    margin-left: 10px;
+    font-size: 20px;
+}

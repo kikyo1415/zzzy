@@ -1,0 +1,8 @@
+.table-hover > tbody > tr:hover {
+    background-color: #D9DEE4;
+    cursor: pointer;
+}
+
+table.table-bordered.dataTable tbody td {
+    word-break: break-all;
+}
